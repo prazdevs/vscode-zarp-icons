@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g fill="none" transform="translate(6 6)">
+    <rect width="15" height="15" x="2.5" y="2.5" fill="#F7941E"/>
+    <polygon fill="#FDB813" points="0 0 .625 5 2.5 10 10 2.5 5 .625"/>
+    <polygon fill="#FAA61A" points="0 20 5 19.375 10 17.5 2.5 10 .625 15"/>
+    <polygon fill="#F36F21" points="20 20 19.375 15 17.5 10 10 17.5 15 19.375"/>
+    <polygon fill="#F58220" points="20 0 15 .625 10 2.5 17.5 10 19.375 5"/>
+    <polygon fill="#FFCB08" points="0 0 10 2.5 5 0"/>
+    <polygon fill="#FFF200" points="0 0 0 5 2.5 10"/>
+    <polygon fill="#FFF200" points="0 20 2.5 10 0 15"/>
+    <polygon fill="#F4813C" points="0 20 5 20 10 17.5"/>
+    <polygon fill="#F7941E" points="20 20 10 17.5 15 20"/>
+    <polygon fill="#F15922" points="20 20 20 15 17.5 10"/>
+    <polygon fill="#F15922" points="20 0 17.5 10 20 5"/>
+    <polygon fill="#FFCB08" points="20 0 15 0 10 2.5"/>
+  </g>
+</svg>
