@@ -359,6 +359,7 @@
     "zsh": "_file_console"
   },
   "fileNames": {
+    "nodemon.json": "_file_nodemon",
     "cypress.json": "_file_cypress",
     "Pipefile": "_file_pipfile",
     "Pipefile.lock": "_file_pipfile-lock",

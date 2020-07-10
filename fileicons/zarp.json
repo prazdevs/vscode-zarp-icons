@@ -359,6 +359,7 @@
         "zsh": "_file_console"
     },
     "fileNames": {
+        "nodemon.json": "_file_nodemon",
         "cypress.json": "_file_cypress",
         "Pipefile": "_file_pipfile",
         "Pipefile.lock": "_file_pipfile-lock",
@@ -920,6 +921,9 @@
         },
         "_file_nodejs": {
             "iconPath": "./svg/nodejs.svg"
+        },
+        "_file_nodemon": {
+            "iconPath": "./svg/nodemon.svg"
         },
         "_file_note": {
             "iconPath": "./svg/note.svg"
