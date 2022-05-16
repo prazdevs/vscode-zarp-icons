@@ -1228,10 +1228,10 @@
       "iconPath": "./icons/file.svg"
     },
     "folder-composables": {
-      "iconPath": "./icons/composables.svg"
+      "iconPath": "./icons/folder-composables.svg"
     },
     "folder-composables-open": {
-      "iconPath": "./icons/composables-open.svg"
+      "iconPath": "./icons/folder-composables-open.svg"
     },
     "folder-src": {
       "iconPath": "./icons/folder-src.svg"
