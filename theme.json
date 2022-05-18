@@ -1,5 +1,8 @@
 {
   "iconDefinitions": {
+    "unocss": {
+      "iconPath": "./icons/unocss.svg"
+    },
     "sonarqube": {
       "iconPath": "./icons/sonarqube.svg"
     },
@@ -3360,6 +3363,7 @@
     "unity": "folder-unity-open"
   },
   "fileExtensions": {
+    "workflows/yml": "pipeline",
     "htm": "html",
     "xhtml": "html",
     "html_vm": "html",
@@ -4089,6 +4093,8 @@
     "steadybit.yaml": "steadybit"
   },
   "fileNames": {
+    "unocss.config.ts": "unocss",
+    "unocss.config.js": "unocss",
     "sonar-project.properties": "sonarqube",
     ".pug-lintrc": "pug",
     ".pug-lintrc.js": "pug",
