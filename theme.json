@@ -1,5 +1,8 @@
 {
   "iconDefinitions": {
+    "sonarqube": {
+      "iconPath": "./icons/sonarqube.svg"
+    },
     "git": {
       "iconPath": "./icons/git.svg"
     },
@@ -4086,6 +4089,7 @@
     "steadybit.yaml": "steadybit"
   },
   "fileNames": {
+    "sonar-project.properties": "sonarqube",
     ".pug-lintrc": "pug",
     ".pug-lintrc.js": "pug",
     ".pug-lintrc.json": "pug",
