@@ -1,5 +1,8 @@
 {
   "iconDefinitions": {
+    "formkit": {
+      "iconPath": "./icons/formkit.svg"
+    },
     "unocss": {
       "iconPath": "./icons/unocss.svg"
     },
@@ -2675,6 +2678,8 @@
     "authentication": "folder-secure",
     "secure": "folder-secure",
     "security": "folder-secure",
+    ".certs": "folder-secure",
+    ".cert": "folder-secure",
     "cert": "folder-secure",
     "certs": "folder-secure",
     "certificate": "folder-secure",
@@ -3241,6 +3246,8 @@
     "authentication": "folder-secure-open",
     "secure": "folder-secure-open",
     "security": "folder-secure-open",
+    ".certs": "folder-secure-open",
+    ".cert": "folder-secure-open",
     "cert": "folder-secure-open",
     "certs": "folder-secure-open",
     "certificate": "folder-secure-open",
@@ -4093,6 +4100,8 @@
     "steadybit.yaml": "steadybit"
   },
   "fileNames": {
+    "formkit.config.js": "formkit",
+    "formkit.config.ts": "formkit",
     "unocss.config.ts": "unocss",
     "unocss.config.js": "unocss",
     "sonar-project.properties": "sonarqube",
