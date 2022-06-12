@@ -4796,6 +4796,8 @@
     ".svgrrc.yml": "svgr",
     ".svgrrc.json": "svgr",
     "rome.json": "rome",
+    "cypress.config.ts": "cypress",
+    "cypress.config.js": "cypress",
     "cypress.json": "cypress",
     "cypress.env.json": "cypress",
     "plopfile.js": "plop",
